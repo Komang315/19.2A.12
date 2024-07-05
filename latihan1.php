@@ -16,11 +16,7 @@
             <label for="email1">Email : </label>
             <input type="text" id="email1"  name="email">
         </div>
-        
-
-
-
-
+        <button type="submit" class="btn btn-danger">Submit</button>
     </form>
 </body>
 </html>
