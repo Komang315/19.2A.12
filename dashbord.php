@@ -20,10 +20,10 @@
                         <a class="nav-link" href="#" onclick="document.getElementById('contentFrame').src='addproduct.php';">add product</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#" onclick="document.getElementById('contentFrame').src='from_html.php';">From HTML</a>
+                        <a class="nav-link" href="#" onclick="document.getElementById('contentFrame').src='from_html.php';">Form HTML</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#" onclick="document.getElementById('contentFrame').src='from_mahasiswa.php';">From Mahasiswa</a>
+                        <a class="nav-link" href="#" onclick="document.getElementById('contentFrame').src='from_mahasiswa.php';">Form Mahasiswa</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#" onclick="document.getElementById('contentFrame').src='latihan1.php';">latihan 1</a>
@@ -52,10 +52,10 @@
                         <a class="nav-link" href="#" onclick="document.getElementById('contentFrame').src='addproduct.php';">add product</a>
                     </li>
                 <li class="nav-item">
-                        <a class="nav-link" href="#" onclick="document.getElementById('contentFrame').src='from_html.php';">From HTML</a>
+                        <a class="nav-link" href="#" onclick="document.getElementById('contentFrame').src='from_html.php';">Form HTML</a>
                     </li>
                 <li class="nav-item">
-                        <a class="nav-link" href="#" onclick="document.getElementById('contentFrame').src='from_mahasiswa.php';">From Mahasiswa</a>
+                        <a class="nav-link" href="#" onclick="document.getElementById('contentFrame').src='from_mahasiswa.php';">Form Mahasiswa</a>
                     </li>
                 <li class="nav-item">
                         <a class="nav-link" href="#" onclick="document.getElementById('contentFrame').src='latihan1.php';">latihan 1</a>
@@ -72,7 +72,7 @@
 
         <!-- Dynamic Content Area -->
         <div id="content" class="p-4 w-100">
-            <iframe id="contentFrame" src="home_content.html" style="width:100%; height:600px; border:none;"></iframe>
+            <iframe id="contentFrame" src="" style="width:100%; height:600px; border:none;"></iframe>
         </div>
     </div>
 
