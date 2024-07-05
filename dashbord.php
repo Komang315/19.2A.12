@@ -49,7 +49,7 @@
                 <li><a href="#">Products</a></li>
                 <li><a href="#">Contact</a></li> -->
                 <li class="nav-item">
-                        <a class="nav-link" href="#" onclick="document.getElementById('contentFrame').src='addproduct.php';">add product</a>
+                        <a class="nav-link" href="#" onclick="document.getElementById('contentFrame').src='addproduct.php';">Add product</a>
                     </li>
                 <li class="nav-item">
                         <a class="nav-link" href="#" onclick="document.getElementById('contentFrame').src='from_html.php';">Form HTML</a>
